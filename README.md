@@ -11,7 +11,7 @@ A continuación les dejamos todo el material necesario para que puedan llevar ad
 
 [Temario](./Temario.md)
 
-###Comunicación con los docentes:
+### Comunicación con los docentes:
 
 Por consultas personales o para notificar de un problema personal: podrán enviarnos un mail a nuestras casillas de correo electrónico:
 
